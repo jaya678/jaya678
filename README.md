@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... drop a mail @ jayashreeghosh678@gmail.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I'm too dedicated
--->
