@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🌺 Portfolio link ... https://jaya678.github.io/
 - 🔭 I’m currently working on ... Covid Vaccination Analysis
 - 🌱 I’m currently learning ... Reactjs
