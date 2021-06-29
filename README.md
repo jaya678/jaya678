@@ -1,18 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayashree Ghosh</h1>
 <h4 align="center">I'm a passionate Web Developer and Data-Science Enthusiast who hails from Ranchi, Jharkharnd. And is seeking a challenging position that offers professional growth plus ample space to learn.</h4>
 
 
 <h3>💁‍♂️ About Me </h3>
-- 🌺 Portfolio link ... https://jaya678.github.io/
-- 📫 How to reach me: ... drop a mail @ jayashreeghosh678@gmail.com
-- 🔭 I’m currently working on ... Covid Vaccination Analysis
-- 🌱 I’m currently learning ... Reactjs
-- 👯 I’m looking to collaborate on ... Web Development
-- 🤔 I’m looking for help with ... flask/django
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I'm too dedicated
+- 🌺 Portfolio link ... https://jaya678.github.io/ <br/>
+- 📫 How to reach me: ... drop a mail @ jayashreeghosh678@gmail.com </br>
+- 🔭 I’m currently working on ... Covid Vaccination Analysis  </br>
+- 🌱 I’m currently learning ... Reactjs  </br>
+- 👯 I’m looking to collaborate on ... Web Development  </br>
+- 🤔 I’m looking for help with ... flask/django  </br>
+- 💬 Ask me about ... Anything  </br>
+- 😄 Pronouns: ... She/Her   </br>
+- ⚡ Fun fact: ... I'm too dedicated   </br>
 
 
 
