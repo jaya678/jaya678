@@ -1,11 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayashree Ghosh</h1>
-<h4 align="center">I'm a passionate Web Developer and Data-Science Enthusiast who hails from Ranchi, Jharkharnd. And is seeking a challenging position that offers professional growth plus ample space to learn.</h4>
+<h4 align="center">A passionate Web Developer and Data-Science Enthusiast who hails from Ranchi, Jharkharnd. And is seeking a challenging position that offers professional growth plus ample space to learn.</h4>
 
 
 <h3>💁‍♂️ About Me </h3>
 - 🌺 Portfolio link ... https://jaya678.github.io/ <br/>
-- 📫 How to reach me: ... drop a mail @ jayashreeghosh678@gmail.com </br>
+- 📫 Reach me @: ... jayashreeghosh678@gmail.com </br>
 - 🔭 I’m currently working on ... Covid Vaccination Analysis  </br>
 - 🌱 I’m currently learning ... Reactjs  </br>
 - 👯 I’m looking to collaborate on ... Web Development  </br>
@@ -16,7 +16,7 @@
 
 
 
-<p align="left"> 
+<!-- <p align="left"> 
         <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual studio code" width="36" height="36"/> </a> &nbsp;
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -73,3 +73,4 @@
 <a href="https://github.com/Raj619Shubham?tab=followers"><img src="https://img.shields.io/github/followers/Raj619Shubham?label=Followers&style=social" alt="GitHub Badge"></a>
  
 
+ -->
