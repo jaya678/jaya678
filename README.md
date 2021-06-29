@@ -1,5 +1,5 @@
-<a href="#" align="center"><img width="300" height="auto" style="text-align:center;
-        " src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300" height="175px"/></a>
+<!-- <a href="#" align="center"><img width="300" height="auto" style="text-align:center;
+        " src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300" height="175px"/></a> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayashree Ghosh</h1>
 <h4 align="center">A passionate Web Developer and Data-Science Enthusiast who hails from Ranchi, Jharkharnd. And is seeking a challenging position that offers professional growth plus ample space to learn.</h4>
 
