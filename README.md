@@ -1,3 +1,4 @@
+<p align="center"><img align="center" src="FormalDp.png" alt="jaya678"></p>
 <h1 align="center">Hi 👋, I'm Jayashree Ghosh</h1>
 <h3 align="center">A passionate Web Developer and a Data-Science Enthusiast</h3>
 
