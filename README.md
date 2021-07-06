@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am way too dedicated**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jayas-webdesign4youall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jayas-webdesign4youall" height="30" width="40" /></a>
 <a href="https://twitter.com/jayashr04116517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayashr04116517" height="30" width="40" /></a>
