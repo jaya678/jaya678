@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayashree Ghosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer and a Data-Science Enthusiast</h3>
 
 - 🔭 I’m currently working on [Covid'19 Vaccination Analysis](https://jaya678.github.io/CoVictory/)
 
